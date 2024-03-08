@@ -22,6 +22,16 @@
   
 </div>
 
+  ### :woman_technologist: About Me :
+  A passionate data explorer, forever seeking insights in numbers and patterns. When not coding, you'll find me lost in books or daydreaming about my next adventure.
+
+  ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shraddhapattnaik&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhapattnaik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **shraddhapattnaik/shraddhapattnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
