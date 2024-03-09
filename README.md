@@ -28,7 +28,7 @@
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shraddhapattnaik&theme=aura&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhapattnaik&layout=donut&theme=aura&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhapattnaik&layout=donut&theme=aura&background=000000&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddhapattnaik&show_icons=true&theme=aura&background=000000)
 
